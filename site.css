@@ -1,0 +1,38 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Lato', sans-serif; 
+	font-weight: 300;
+	/*
+	border: 1px solid red;
+	*/
+}
+a {
+	text-decoration: none;
+	color: #E9E9E9;
+}
+a:hover {
+	color: #ffcac7;
+}
+nav span {
+	color: #E9E9E9;
+}
+body {
+	background-color: #b1b9c7; 
+	margin: 15%;
+}
+header {
+}
+header h1 {
+	font-size: 2.1em;
+}
+#main-content {
+	max-width: 800px;
+	margin-left: auto;
+	/*color: #E9E9E9;*/
+	/* color: white; */
+	padding: 40px;
+}
+#bio p {
+	padding: 10px;
+}
